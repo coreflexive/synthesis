@@ -1,0 +1,9 @@
+[submodule "relation"]
+	path = relation
+	url = https://github.com/coreflexive/relation
+[submodule "order"]
+	path = order
+	url = https://github.com/coreflexive/order
+[submodule "algebra"]
+	path = algebra
+	url = https://github.com/coreflexive/algebra
