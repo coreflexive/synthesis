@@ -1,4 +1,4 @@
-open extrema
+open order/extrema
 
 -- We'll need a set, A and a subset, S, thereof.  Crucially, we'll need
 -- a relation R on A.  We can declare further subsets as and when we need them.

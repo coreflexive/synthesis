@@ -1,4 +1,4 @@
-open extrema
+open order/extrema
 
 sig A { R: set A }
 sig S in A {}
